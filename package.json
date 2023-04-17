@@ -9,11 +9,15 @@
   "author": "dhaval",
   "license": "ISC",
   "dependencies": {
+    "@pinata/sdk": "^2.1.0",
+    "@thirdweb-dev/storage": "^1.1.2",
     "dotenv": "^16.0.3",
     "express": "^4.18.2",
+    "http": "^0.0.1-security",
     "ipfs-api": "^26.1.2",
     "ipfs-core": "^0.18.0",
     "ipfs-http-client": "^60.0.0",
+    "memfs": "^3.4.13",
     "mongoose": "^7.0.3",
     "multer": "^1.4.5-lts.1",
     "uuid": "^9.0.0"
